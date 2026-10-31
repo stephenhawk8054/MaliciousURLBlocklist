@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Last modified: 2026-10-31T09:27:28.073+00:00
+! Last modified: 2026-10-31T09:28:53.378+00:00
 ! Expires: 1 days
 ! Description: Fork of "Online Malicious URL Blocklist" by URLHaus
 ! Homepage: https://github.com/stephenhawk8054/MaliciousURLBlocklist
@@ -16,4 +16,3 @@
 !#if !env_mobile
 !#include github.txt
 !#endif
-

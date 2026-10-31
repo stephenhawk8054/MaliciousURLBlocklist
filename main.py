@@ -74,7 +74,6 @@ def main():
 !#if !env_mobile
 !#include github.txt
 !#endif
-
 """
     with open('filters.txt', 'w', encoding='utf-8') as fw:
         fw.write('! Title: Malicious URL Blocklist\n')
