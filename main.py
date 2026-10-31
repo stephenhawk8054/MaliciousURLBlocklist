@@ -35,7 +35,7 @@ def main():
             repos = set()
 
             for line in f_source:
-                raw_filter = line.strip().rstrip('^$all')
+                raw_filter = line.strip().rstrip('^$all').rstrip('/')
 
                 if line.startswith('!'):
                     # Comment lines

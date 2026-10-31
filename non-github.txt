@@ -1,5 +1,5 @@
 ||150.co.il/rustdesk-1.2.3-2-x86_64.exe^$document,xmlhttprequest
-||acusense.ae/umbrella/^$document,xmlhttprequest
+||acusense.ae/umbrella^$document,xmlhttprequest
 ||amyuni.com/downloads/usbmmidd_v2.zip^$document,xmlhttprequest
 ||aws-v2-cdn.token.im/downloads/imtoken-v2.apk^$document,xmlhttprequest
 ||cd.textfiles.com/hmatrix/data/hack0832.zip^$document,xmlhttprequest
@@ -240,11 +240,11 @@
 ||firebasestorage.googleapis.com/v0/b/septnew-b74f7-qlv3k/o/lincoln.ps1?alt=media&token=e9a0fb00-1128-4637-bead-4c8f069ea72c^$document,xmlhttprequest
 ||firebasestorage.googleapis.com/v0/b/spenglercomics.firebasestorage.app/o/task.txt?alt=media&token=f162f5ce-52f7-4407-8cc4-dd96cedd9b0e^$document,xmlhttprequest
 ||flexsportpools.com/wp-admin/admin-ajax.php?action=splash_d^$document,xmlhttprequest
-||fromthetrenchesworldreport.com/analytics/zy5ntk/^$document,xmlhttprequest
+||fromthetrenchesworldreport.com/analytics/zy5ntk^$document,xmlhttprequest
 ||fucktermedfir.st/files/jar/module^$document,xmlhttprequest
 ||gist.githubusercontent.com/a1l4m/2e771fb306028fabfc8e098427181f78/raw/37f3db6b29d64f1045fb60967d6297f525ddf443/iamthedanger.txt^$document,xmlhttprequest
 ||gist.githubusercontent.com/laurenxss/36b18f37163aaa04654bd21e98d1b842/raw/dca82ba88fae8788a48ffb529f9610a0cc209781/x^$document,xmlhttprequest
-||gist.githubusercontent.com/laurenxss/42429a19c72b875b93608f8cb0cab933/raw/^$document,xmlhttprequest
+||gist.githubusercontent.com/laurenxss/42429a19c72b875b93608f8cb0cab933/raw^$document,xmlhttprequest
 ||gitlab.com/badcutes/fortnitespoofer/-/raw/main/fortnitespoofer.zip^$document,xmlhttprequest
 ||gitlab.com/blowtheswitch/fluxus-executor/-/raw/main/fluxusexecutor.zip^$document,xmlhttprequest
 ||gitlab.com/brightshow/fivem-mod-menu/-/raw/main/loader.exe^$document,xmlhttprequest
