@@ -1,0 +1,19 @@
+! Title: Malicious URL Blocklist
+! Last modified: 2026-10-31T09:08:25.164+00:00
+! Expires: 1 days
+! Description: Fork of "Online Malicious URL Blocklist" by URLHaus
+! Homepage: https://github.com/stephenhawk8054/MaliciousURLBlocklist
+! License: https://github.com/stephenhawk8054/MaliciousURLBlocklist/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/stephenhawk8054/MaliciousURLBlocklist/issues
+! GitHub pull requests: https://github.com/stephenhawk8054/MaliciousURLBlocklist/pulls
+
+! Domains
+!#include domain.txt
+! Non-github path-based
+!#include non-github.txt
+! Github path-based
+!#if !env_mobile
+!#include github.txt
+!#endif
+
