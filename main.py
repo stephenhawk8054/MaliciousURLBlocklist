@@ -1,7 +1,7 @@
-from datetime import datetime, timezone
 import re
 import urllib.error
 import urllib.request
+from datetime import datetime, timezone
 
 from utils import write_text
 

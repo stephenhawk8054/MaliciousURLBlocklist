@@ -9,19 +9,19 @@ https://cdn.jsdelivr.net/gh/stephenhawk8054/MaliciousURLBlocklist@latest/filters
 
 ## Some modifications comparing to original sources:
 
-- Plain domain filters are in form of 
+- Plain domain filters are in the form of 
 
 ```adb
 ||example.com^
 ```
 
-- Path-based filters are in form of 
+- Path-based filters are in the form of 
 
 ```adb
 ||example.com/path^$document,xmlhttprequest
 ```
 
-- Since there are too many github-related filters, these are combined to block different paths inside the repo in the form of 
+- Since there are too many github-related filters, these will be combined to block different paths inside the repo in the form of 
 
 ```adb
 ||com/username/repo/*.$document,xmlhttprequest,to=github.com|raw.githubusercontent.com
