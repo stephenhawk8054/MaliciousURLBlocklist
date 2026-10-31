@@ -4,7 +4,7 @@ Fork of "Online Malicious URL Blocklist" by URLHaus
 ## Links for adding to uBlock Origin
 
 ```yml
-Later
+https://cdn.jsdelivr.net/gh/stephenhawk8054/MaliciousURLBlocklist@latest/filters.txt
 ```
 
 ## Some modifications comparing to original sources:
