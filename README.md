@@ -24,7 +24,7 @@ https://cdn.jsdelivr.net/gh/stephenhawk8054/MaliciousURLBlocklist@latest/filters
 - Since there are too many github-related filters, these are combined to block different paths inside the repo in the form of 
 
 ```adb
-/username/repo/*.$document,xmlhttprequest,to=github.com|raw.githubusercontent.com
+||com/username/repo/*.$document,xmlhttprequest,to=github.com|raw.githubusercontent.com
 ```
 and will not be available on mobile platforms.
 

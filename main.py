@@ -52,7 +52,7 @@ def main():
                     if repo in repos:
                         continue
                     repos.add(repo)
-                    f_github.write(f'/{repo}/*.$document,xmlhttprequest,to=github.com|raw.githubusercontent.com\n')
+                    f_github.write(f'||com/{repo}/*.$document,xmlhttprequest,to=github.com|raw.githubusercontent.com\n')
                 else:
                     # Other path-based domain
                     f_nongit.write(f'{raw_filter}^$document,xmlhttprequest\n')
