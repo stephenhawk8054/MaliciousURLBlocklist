@@ -54,7 +54,7 @@ def main():
                     repos.add(repo)
                     f_github.write(f'||com/{repo}/*.$document,xmlhttprequest,to=github.com|raw.githubusercontent.com\n')
                 else:
-                    # Other path-based domain
+                    # Other path-based filters
                     f_nongit.write(f'{raw_filter}^$document,xmlhttprequest\n')
 
     # Modify date time
@@ -68,8 +68,10 @@ def main():
 
 ! Domains
 !#include domain.txt
+
 ! Non-github path-based
 !#include non-github.txt
+
 ! Github path-based
 !#if !env_mobile
 !#include github.txt
